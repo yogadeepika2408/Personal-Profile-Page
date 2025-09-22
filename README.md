@@ -11,8 +11,8 @@
         <h1>Yoga Deepika</h1>
         <h2>Web Development Trainee</h2>
         <p><strong>📍Location:</strong>Vijayawada</p>
-        <p><strong>✉️Email:</strong> <a href ="mailto: yogadeepikasiddha@gmail.com">yogadeepikasiddha@gmail.com</a></p>
-        <p><strong>📞Phone:</strong>+91-7993598233</p>
+        <p><strong>✉️Email:</strong> <a href ="mailto: yogadeepika@gmail.com">yogadeepika@gmail.com</a></p>
+        <p><strong>📞Phone:</strong>+91-1234568233</p>
     </header>
     <section>
         <h2>Skills</h2>
